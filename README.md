@@ -1,4 +1,4 @@
-![image](Dulani -Photo.jpeg)
+![alt text](Dulani -Photo.jpeg)
 
 # About Me
 ### Hi there! I'm Dulani Kapuduwage, and I recently graduated with a Master's in Data Science from The University of Queensland! With 1 1/2 years of experience as a Data Scientist across mining and 3 1/2 years of experience as a Production Coordinator and Planning executive, I help companies to solve challenges and unlock growth.
